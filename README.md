@@ -1,0 +1,2 @@
+# VOIS_AICTE_Oct2025_MajorProject_Pinjari_Ahammed_Hussain
+Netflix Data Analysis project.
